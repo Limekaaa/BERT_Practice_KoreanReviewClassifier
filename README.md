@@ -1,2 +1,2 @@
 # BERT_Practice_KoreanReviewClassifier
-School project about BERT to use it to classify reviews.
+School project about BERT for movie review classification in Korean language.
